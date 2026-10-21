@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="t d">
+  <title id="t">Meir Hersonski — Frontend Engineer</title>
+  <desc id="d">A minimal terminal-inspired dark header with an identity and three core technologies.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#152235"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="270" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="268" rx="13" fill="none" stroke="#354258" stroke-width="2"/>
+  <path d="M1 48H1199" stroke="#354258" stroke-width="1.5"/>
+  <circle cx="25" cy="24" r="6" fill="#e87979"/>
+  <circle cx="47" cy="24" r="6" fill="#e9be68"/>
+  <circle cx="69" cy="24" r="6" fill="#5caf91"/>
+  <text x="600" y="30" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#8190a9">meir@github  —  ~/profile</text>
+  <text x="38" y="91" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#72e3c3">$</text>
+  <text x="62" y="91" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="19" fill="#9eacc4">whoami</text>
+  <text x="38" y="159" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1" fill="#f7f9fe">Meir Hersonski</text>
+  <text x="40" y="204" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="21" fill="#a8b8d0">Frontend Engineer</text>
+  <text x="40" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#72e3c3">React</text>
+  <text x="107" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#6e839f">/</text>
+  <text x="129" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#72e3c3">TypeScript</text>
+  <text x="251" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#6e839f">/</text>
+  <text x="274" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" fill="#72e3c3">Next.js</text>
+  <g opacity=".38" stroke="#3f6278" stroke-width="1.4" fill="none">
+    <path d="M906 82h252M906 115h188M906 148h223M906 181h178"/>
+    <path d="M881 69v130"/>
+  </g>
+  <g opacity=".6" fill="#72e3c3"><circle cx="920" cy="82" r="4"/><circle cx="920" cy="115" r="4"/><circle cx="920" cy="148" r="4"/></g>
+</svg>
